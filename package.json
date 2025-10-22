@@ -1,0 +1,12 @@
+{
+  "name": "quote-app",
+  "version": "1.0.0",
+  "description": "Random Quote Generator Node.js App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Deepi",
+  "license": "ISC"
+}
